@@ -1,0 +1,11 @@
+{
+  "name": "ft-jscs",
+  "description": "First+Third jscs file",
+  "homepage": "https://github.com/firstandthird/ft-jscs",
+  "author": "First+Third",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firstandthird/ft-jscs.git"
+  }
+}
