@@ -9,6 +9,7 @@
   "disallowOperatorBeforeLineBreak": ["+", "."],
   "disallowQuotedKeysInObjects": "allButReserved",
   "disallowSpaceAfterObjectKeys": true,
+  "disallowSpacesInsideParentheses": true,
   "disallowSpaceAfterPrefixUnaryOperators": ["++", "--", "+", "-", "~", "!"],
   "disallowSpaceBeforePostfixUnaryOperators": ["++", "--"],
   "disallowSpacesInAnonymousFunctionExpression": {
